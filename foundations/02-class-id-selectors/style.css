@@ -1,0 +1,20 @@
+.classOdd {
+    background-color: rgb(230, 154, 154);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#IDone {
+    font-size: 36px;
+    color: blue;
+}
+
+#IDtwo {
+    background-color: rgb(122, 230, 122);
+    font-size: 24px;
+    font-family: Verdana, sans-serif; 
+    font-weight: bold;
+}
+
+.adjusted-font-size {
+    font-size: 24px;
+}
